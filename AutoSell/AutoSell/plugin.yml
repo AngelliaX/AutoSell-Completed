@@ -1,0 +1,10 @@
+name: AutoSell
+main: tungsten_autosell\Main
+version: 0.0.2
+api: [3.0.0,3.0.6,4.0.0]
+author: tungsten
+
+commands:
+ autosell:
+  description: 
+  usage: 
